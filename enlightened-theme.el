@@ -122,9 +122,6 @@
                (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'enlightened)
-
-;; Local Variables:
-;; eval: (when (fboundp 'rainbow-mode) (rainbow-mode +1))
-;; End:
+(provide 'enlightened-theme)
 
 ;;; enlightened-theme.el ends here
