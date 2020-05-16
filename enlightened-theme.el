@@ -1,4 +1,4 @@
-;;; enlightened-theme.el --- an Emacs 24 theme based on enlightened (tmTheme)
+;;; enlightened-theme.el --- A theme based on enlightened
 ;;; SPDX-License-Identifier: FSFAP
 ;;; Code:
 
