@@ -6,8 +6,7 @@
   "enlightened-theme - Created by tmtheme-to-deftheme - 2020-05-04 20:51:25 -0400")
 
 (custom-theme-set-variables
- 'enlightened
-)
+ 'enlightened)
 
 (custom-theme-set-faces
  'enlightened
@@ -93,7 +92,7 @@
  '(diff-changed ((t (:foreground "#E6DB74"  ))))
  '(font-lock-comment-delimiter-face ((t (:foreground "#616671"  ))))
 
-;; Rainbow delimiters
+ ;; Rainbow delimiters
  '(rainbow-delimiters-depth-1-face ((t (:foreground "#b31e71"))))
  '(rainbow-delimiters-depth-2-face ((t (:foreground "#c5217d"))))
  '(rainbow-delimiters-depth-3-face ((t (:foreground "#d62388"))))
@@ -103,8 +102,8 @@
  '(rainbow-delimiters-depth-7-face ((t (:foreground "#e667af"))))
  '(rainbow-delimiters-depth-8-face ((t (:foreground "#e979b8"))))
  '(rainbow-delimiters-depth-9-face ((t (:foreground "#ec8bc1"))))
- '(rainbow-delimiters-unmatched-face ((t (:foreground "#FF0000"))))
-) ;; End face definitions
+ '(rainbow-delimiters-unmatched-face ((t (:foreground "#FF0000")))))
+;; End face definitions
 
 ;;;###autoload
 (when load-file-name
