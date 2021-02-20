@@ -1,6 +1,6 @@
 ;;; enlightened-theme.el --- A theme based on enlightened
 ;;; SPDX-License-Identifier: FSFAP
-;;; Commentary
+;;; Commentary:
 ;; This package provides an Emacs theme based on `enlightened' for Sublime Text
 ;;; URL: https://hg.sr.ht/~slondr/enlightened
 ;;; Code:
